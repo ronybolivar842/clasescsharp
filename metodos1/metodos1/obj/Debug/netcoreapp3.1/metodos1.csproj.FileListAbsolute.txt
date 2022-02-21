@@ -1,0 +1,13 @@
+C:\Users\RONY\Desktop\upn\cursos upn\VERANO\FUNDAMENTOS DE ALGORITMOS\progrmas c#\metodos1\metodos1\bin\Debug\netcoreapp3.1\metodos1.exe
+C:\Users\RONY\Desktop\upn\cursos upn\VERANO\FUNDAMENTOS DE ALGORITMOS\progrmas c#\metodos1\metodos1\bin\Debug\netcoreapp3.1\metodos1.deps.json
+C:\Users\RONY\Desktop\upn\cursos upn\VERANO\FUNDAMENTOS DE ALGORITMOS\progrmas c#\metodos1\metodos1\bin\Debug\netcoreapp3.1\metodos1.runtimeconfig.json
+C:\Users\RONY\Desktop\upn\cursos upn\VERANO\FUNDAMENTOS DE ALGORITMOS\progrmas c#\metodos1\metodos1\bin\Debug\netcoreapp3.1\metodos1.runtimeconfig.dev.json
+C:\Users\RONY\Desktop\upn\cursos upn\VERANO\FUNDAMENTOS DE ALGORITMOS\progrmas c#\metodos1\metodos1\bin\Debug\netcoreapp3.1\metodos1.dll
+C:\Users\RONY\Desktop\upn\cursos upn\VERANO\FUNDAMENTOS DE ALGORITMOS\progrmas c#\metodos1\metodos1\bin\Debug\netcoreapp3.1\metodos1.pdb
+C:\Users\RONY\Desktop\upn\cursos upn\VERANO\FUNDAMENTOS DE ALGORITMOS\progrmas c#\metodos1\metodos1\obj\Debug\netcoreapp3.1\metodos1.csprojAssemblyReference.cache
+C:\Users\RONY\Desktop\upn\cursos upn\VERANO\FUNDAMENTOS DE ALGORITMOS\progrmas c#\metodos1\metodos1\obj\Debug\netcoreapp3.1\metodos1.AssemblyInfoInputs.cache
+C:\Users\RONY\Desktop\upn\cursos upn\VERANO\FUNDAMENTOS DE ALGORITMOS\progrmas c#\metodos1\metodos1\obj\Debug\netcoreapp3.1\metodos1.AssemblyInfo.cs
+C:\Users\RONY\Desktop\upn\cursos upn\VERANO\FUNDAMENTOS DE ALGORITMOS\progrmas c#\metodos1\metodos1\obj\Debug\netcoreapp3.1\metodos1.csproj.CoreCompileInputs.cache
+C:\Users\RONY\Desktop\upn\cursos upn\VERANO\FUNDAMENTOS DE ALGORITMOS\progrmas c#\metodos1\metodos1\obj\Debug\netcoreapp3.1\metodos1.dll
+C:\Users\RONY\Desktop\upn\cursos upn\VERANO\FUNDAMENTOS DE ALGORITMOS\progrmas c#\metodos1\metodos1\obj\Debug\netcoreapp3.1\metodos1.pdb
+C:\Users\RONY\Desktop\upn\cursos upn\VERANO\FUNDAMENTOS DE ALGORITMOS\progrmas c#\metodos1\metodos1\obj\Debug\netcoreapp3.1\metodos1.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\RONY\Desktop\upn\cursos upn\VERANO\FUNDAMENTOS DE ALGORITMOS\progrmas c#\usodeconstantes\usodeconstantes\bin\Debug\netcoreapp3.1\usodeconstantes.exe
+C:\Users\RONY\Desktop\upn\cursos upn\VERANO\FUNDAMENTOS DE ALGORITMOS\progrmas c#\usodeconstantes\usodeconstantes\bin\Debug\netcoreapp3.1\usodeconstantes.deps.json
+C:\Users\RONY\Desktop\upn\cursos upn\VERANO\FUNDAMENTOS DE ALGORITMOS\progrmas c#\usodeconstantes\usodeconstantes\bin\Debug\netcoreapp3.1\usodeconstantes.runtimeconfig.json
+C:\Users\RONY\Desktop\upn\cursos upn\VERANO\FUNDAMENTOS DE ALGORITMOS\progrmas c#\usodeconstantes\usodeconstantes\bin\Debug\netcoreapp3.1\usodeconstantes.runtimeconfig.dev.json
+C:\Users\RONY\Desktop\upn\cursos upn\VERANO\FUNDAMENTOS DE ALGORITMOS\progrmas c#\usodeconstantes\usodeconstantes\bin\Debug\netcoreapp3.1\usodeconstantes.dll
+C:\Users\RONY\Desktop\upn\cursos upn\VERANO\FUNDAMENTOS DE ALGORITMOS\progrmas c#\usodeconstantes\usodeconstantes\bin\Debug\netcoreapp3.1\usodeconstantes.pdb
+C:\Users\RONY\Desktop\upn\cursos upn\VERANO\FUNDAMENTOS DE ALGORITMOS\progrmas c#\usodeconstantes\usodeconstantes\obj\Debug\netcoreapp3.1\usodeconstantes.csprojAssemblyReference.cache
+C:\Users\RONY\Desktop\upn\cursos upn\VERANO\FUNDAMENTOS DE ALGORITMOS\progrmas c#\usodeconstantes\usodeconstantes\obj\Debug\netcoreapp3.1\usodeconstantes.AssemblyInfoInputs.cache
+C:\Users\RONY\Desktop\upn\cursos upn\VERANO\FUNDAMENTOS DE ALGORITMOS\progrmas c#\usodeconstantes\usodeconstantes\obj\Debug\netcoreapp3.1\usodeconstantes.AssemblyInfo.cs
+C:\Users\RONY\Desktop\upn\cursos upn\VERANO\FUNDAMENTOS DE ALGORITMOS\progrmas c#\usodeconstantes\usodeconstantes\obj\Debug\netcoreapp3.1\usodeconstantes.csproj.CoreCompileInputs.cache
+C:\Users\RONY\Desktop\upn\cursos upn\VERANO\FUNDAMENTOS DE ALGORITMOS\progrmas c#\usodeconstantes\usodeconstantes\obj\Debug\netcoreapp3.1\usodeconstantes.dll
+C:\Users\RONY\Desktop\upn\cursos upn\VERANO\FUNDAMENTOS DE ALGORITMOS\progrmas c#\usodeconstantes\usodeconstantes\obj\Debug\netcoreapp3.1\usodeconstantes.pdb
+C:\Users\RONY\Desktop\upn\cursos upn\VERANO\FUNDAMENTOS DE ALGORITMOS\progrmas c#\usodeconstantes\usodeconstantes\obj\Debug\netcoreapp3.1\usodeconstantes.genruntimeconfig.cache

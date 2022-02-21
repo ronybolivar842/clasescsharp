@@ -1,0 +1,13 @@
+C:\Users\RONY\Desktop\upn\cursos upn\VERANO\FUNDAMENTOS DE ALGORITMOS\progrmas c#\trabajodecampo1\trabajodecampo1\bin\Debug\netcoreapp3.1\trabajodecampo1.exe
+C:\Users\RONY\Desktop\upn\cursos upn\VERANO\FUNDAMENTOS DE ALGORITMOS\progrmas c#\trabajodecampo1\trabajodecampo1\bin\Debug\netcoreapp3.1\trabajodecampo1.deps.json
+C:\Users\RONY\Desktop\upn\cursos upn\VERANO\FUNDAMENTOS DE ALGORITMOS\progrmas c#\trabajodecampo1\trabajodecampo1\bin\Debug\netcoreapp3.1\trabajodecampo1.runtimeconfig.json
+C:\Users\RONY\Desktop\upn\cursos upn\VERANO\FUNDAMENTOS DE ALGORITMOS\progrmas c#\trabajodecampo1\trabajodecampo1\bin\Debug\netcoreapp3.1\trabajodecampo1.runtimeconfig.dev.json
+C:\Users\RONY\Desktop\upn\cursos upn\VERANO\FUNDAMENTOS DE ALGORITMOS\progrmas c#\trabajodecampo1\trabajodecampo1\bin\Debug\netcoreapp3.1\trabajodecampo1.dll
+C:\Users\RONY\Desktop\upn\cursos upn\VERANO\FUNDAMENTOS DE ALGORITMOS\progrmas c#\trabajodecampo1\trabajodecampo1\bin\Debug\netcoreapp3.1\trabajodecampo1.pdb
+C:\Users\RONY\Desktop\upn\cursos upn\VERANO\FUNDAMENTOS DE ALGORITMOS\progrmas c#\trabajodecampo1\trabajodecampo1\obj\Debug\netcoreapp3.1\trabajodecampo1.csprojAssemblyReference.cache
+C:\Users\RONY\Desktop\upn\cursos upn\VERANO\FUNDAMENTOS DE ALGORITMOS\progrmas c#\trabajodecampo1\trabajodecampo1\obj\Debug\netcoreapp3.1\trabajodecampo1.AssemblyInfoInputs.cache
+C:\Users\RONY\Desktop\upn\cursos upn\VERANO\FUNDAMENTOS DE ALGORITMOS\progrmas c#\trabajodecampo1\trabajodecampo1\obj\Debug\netcoreapp3.1\trabajodecampo1.AssemblyInfo.cs
+C:\Users\RONY\Desktop\upn\cursos upn\VERANO\FUNDAMENTOS DE ALGORITMOS\progrmas c#\trabajodecampo1\trabajodecampo1\obj\Debug\netcoreapp3.1\trabajodecampo1.csproj.CoreCompileInputs.cache
+C:\Users\RONY\Desktop\upn\cursos upn\VERANO\FUNDAMENTOS DE ALGORITMOS\progrmas c#\trabajodecampo1\trabajodecampo1\obj\Debug\netcoreapp3.1\trabajodecampo1.dll
+C:\Users\RONY\Desktop\upn\cursos upn\VERANO\FUNDAMENTOS DE ALGORITMOS\progrmas c#\trabajodecampo1\trabajodecampo1\obj\Debug\netcoreapp3.1\trabajodecampo1.pdb
+C:\Users\RONY\Desktop\upn\cursos upn\VERANO\FUNDAMENTOS DE ALGORITMOS\progrmas c#\trabajodecampo1\trabajodecampo1\obj\Debug\netcoreapp3.1\trabajodecampo1.genruntimeconfig.cache

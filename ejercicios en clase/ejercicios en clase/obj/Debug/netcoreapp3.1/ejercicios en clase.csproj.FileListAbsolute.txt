@@ -1,0 +1,13 @@
+C:\Users\RONY\Desktop\upn\cursos upn\VERANO\FUNDAMENTOS DE ALGORITMOS\progrmas c#\ejercicios en clase\ejercicios en clase\bin\Debug\netcoreapp3.1\ejercicios en clase.exe
+C:\Users\RONY\Desktop\upn\cursos upn\VERANO\FUNDAMENTOS DE ALGORITMOS\progrmas c#\ejercicios en clase\ejercicios en clase\bin\Debug\netcoreapp3.1\ejercicios en clase.deps.json
+C:\Users\RONY\Desktop\upn\cursos upn\VERANO\FUNDAMENTOS DE ALGORITMOS\progrmas c#\ejercicios en clase\ejercicios en clase\bin\Debug\netcoreapp3.1\ejercicios en clase.runtimeconfig.json
+C:\Users\RONY\Desktop\upn\cursos upn\VERANO\FUNDAMENTOS DE ALGORITMOS\progrmas c#\ejercicios en clase\ejercicios en clase\bin\Debug\netcoreapp3.1\ejercicios en clase.runtimeconfig.dev.json
+C:\Users\RONY\Desktop\upn\cursos upn\VERANO\FUNDAMENTOS DE ALGORITMOS\progrmas c#\ejercicios en clase\ejercicios en clase\bin\Debug\netcoreapp3.1\ejercicios en clase.dll
+C:\Users\RONY\Desktop\upn\cursos upn\VERANO\FUNDAMENTOS DE ALGORITMOS\progrmas c#\ejercicios en clase\ejercicios en clase\bin\Debug\netcoreapp3.1\ejercicios en clase.pdb
+C:\Users\RONY\Desktop\upn\cursos upn\VERANO\FUNDAMENTOS DE ALGORITMOS\progrmas c#\ejercicios en clase\ejercicios en clase\obj\Debug\netcoreapp3.1\ejercicios en clase.csprojAssemblyReference.cache
+C:\Users\RONY\Desktop\upn\cursos upn\VERANO\FUNDAMENTOS DE ALGORITMOS\progrmas c#\ejercicios en clase\ejercicios en clase\obj\Debug\netcoreapp3.1\ejercicios en clase.AssemblyInfoInputs.cache
+C:\Users\RONY\Desktop\upn\cursos upn\VERANO\FUNDAMENTOS DE ALGORITMOS\progrmas c#\ejercicios en clase\ejercicios en clase\obj\Debug\netcoreapp3.1\ejercicios en clase.AssemblyInfo.cs
+C:\Users\RONY\Desktop\upn\cursos upn\VERANO\FUNDAMENTOS DE ALGORITMOS\progrmas c#\ejercicios en clase\ejercicios en clase\obj\Debug\netcoreapp3.1\ejercicios en clase.csproj.CoreCompileInputs.cache
+C:\Users\RONY\Desktop\upn\cursos upn\VERANO\FUNDAMENTOS DE ALGORITMOS\progrmas c#\ejercicios en clase\ejercicios en clase\obj\Debug\netcoreapp3.1\ejercicios en clase.dll
+C:\Users\RONY\Desktop\upn\cursos upn\VERANO\FUNDAMENTOS DE ALGORITMOS\progrmas c#\ejercicios en clase\ejercicios en clase\obj\Debug\netcoreapp3.1\ejercicios en clase.pdb
+C:\Users\RONY\Desktop\upn\cursos upn\VERANO\FUNDAMENTOS DE ALGORITMOS\progrmas c#\ejercicios en clase\ejercicios en clase\obj\Debug\netcoreapp3.1\ejercicios en clase.genruntimeconfig.cache

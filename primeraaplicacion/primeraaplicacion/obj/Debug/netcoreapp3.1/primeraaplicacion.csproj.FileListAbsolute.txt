@@ -1,0 +1,13 @@
+C:\Users\RONY\Desktop\upn\cursos upn\VERANO\FUNDAMENTOS DE ALGORITMOS\progrmas c#\primeraaplicacion\primeraaplicacion\bin\Debug\netcoreapp3.1\primeraaplicacion.exe
+C:\Users\RONY\Desktop\upn\cursos upn\VERANO\FUNDAMENTOS DE ALGORITMOS\progrmas c#\primeraaplicacion\primeraaplicacion\bin\Debug\netcoreapp3.1\primeraaplicacion.deps.json
+C:\Users\RONY\Desktop\upn\cursos upn\VERANO\FUNDAMENTOS DE ALGORITMOS\progrmas c#\primeraaplicacion\primeraaplicacion\bin\Debug\netcoreapp3.1\primeraaplicacion.runtimeconfig.json
+C:\Users\RONY\Desktop\upn\cursos upn\VERANO\FUNDAMENTOS DE ALGORITMOS\progrmas c#\primeraaplicacion\primeraaplicacion\bin\Debug\netcoreapp3.1\primeraaplicacion.runtimeconfig.dev.json
+C:\Users\RONY\Desktop\upn\cursos upn\VERANO\FUNDAMENTOS DE ALGORITMOS\progrmas c#\primeraaplicacion\primeraaplicacion\bin\Debug\netcoreapp3.1\primeraaplicacion.dll
+C:\Users\RONY\Desktop\upn\cursos upn\VERANO\FUNDAMENTOS DE ALGORITMOS\progrmas c#\primeraaplicacion\primeraaplicacion\bin\Debug\netcoreapp3.1\primeraaplicacion.pdb
+C:\Users\RONY\Desktop\upn\cursos upn\VERANO\FUNDAMENTOS DE ALGORITMOS\progrmas c#\primeraaplicacion\primeraaplicacion\obj\Debug\netcoreapp3.1\primeraaplicacion.csprojAssemblyReference.cache
+C:\Users\RONY\Desktop\upn\cursos upn\VERANO\FUNDAMENTOS DE ALGORITMOS\progrmas c#\primeraaplicacion\primeraaplicacion\obj\Debug\netcoreapp3.1\primeraaplicacion.AssemblyInfoInputs.cache
+C:\Users\RONY\Desktop\upn\cursos upn\VERANO\FUNDAMENTOS DE ALGORITMOS\progrmas c#\primeraaplicacion\primeraaplicacion\obj\Debug\netcoreapp3.1\primeraaplicacion.AssemblyInfo.cs
+C:\Users\RONY\Desktop\upn\cursos upn\VERANO\FUNDAMENTOS DE ALGORITMOS\progrmas c#\primeraaplicacion\primeraaplicacion\obj\Debug\netcoreapp3.1\primeraaplicacion.csproj.CoreCompileInputs.cache
+C:\Users\RONY\Desktop\upn\cursos upn\VERANO\FUNDAMENTOS DE ALGORITMOS\progrmas c#\primeraaplicacion\primeraaplicacion\obj\Debug\netcoreapp3.1\primeraaplicacion.dll
+C:\Users\RONY\Desktop\upn\cursos upn\VERANO\FUNDAMENTOS DE ALGORITMOS\progrmas c#\primeraaplicacion\primeraaplicacion\obj\Debug\netcoreapp3.1\primeraaplicacion.pdb
+C:\Users\RONY\Desktop\upn\cursos upn\VERANO\FUNDAMENTOS DE ALGORITMOS\progrmas c#\primeraaplicacion\primeraaplicacion\obj\Debug\netcoreapp3.1\primeraaplicacion.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\RONY\Desktop\upn\cursos upn\VERANO\FUNDAMENTOS DE ALGORITMOS\progrmas c#\TRABAJODECAMPO\TRABAJODECAMPO\bin\Debug\netcoreapp3.1\TRABAJODECAMPO.exe
+C:\Users\RONY\Desktop\upn\cursos upn\VERANO\FUNDAMENTOS DE ALGORITMOS\progrmas c#\TRABAJODECAMPO\TRABAJODECAMPO\bin\Debug\netcoreapp3.1\TRABAJODECAMPO.deps.json
+C:\Users\RONY\Desktop\upn\cursos upn\VERANO\FUNDAMENTOS DE ALGORITMOS\progrmas c#\TRABAJODECAMPO\TRABAJODECAMPO\bin\Debug\netcoreapp3.1\TRABAJODECAMPO.runtimeconfig.json
+C:\Users\RONY\Desktop\upn\cursos upn\VERANO\FUNDAMENTOS DE ALGORITMOS\progrmas c#\TRABAJODECAMPO\TRABAJODECAMPO\bin\Debug\netcoreapp3.1\TRABAJODECAMPO.runtimeconfig.dev.json
+C:\Users\RONY\Desktop\upn\cursos upn\VERANO\FUNDAMENTOS DE ALGORITMOS\progrmas c#\TRABAJODECAMPO\TRABAJODECAMPO\bin\Debug\netcoreapp3.1\TRABAJODECAMPO.dll
+C:\Users\RONY\Desktop\upn\cursos upn\VERANO\FUNDAMENTOS DE ALGORITMOS\progrmas c#\TRABAJODECAMPO\TRABAJODECAMPO\bin\Debug\netcoreapp3.1\TRABAJODECAMPO.pdb
+C:\Users\RONY\Desktop\upn\cursos upn\VERANO\FUNDAMENTOS DE ALGORITMOS\progrmas c#\TRABAJODECAMPO\TRABAJODECAMPO\obj\Debug\netcoreapp3.1\TRABAJODECAMPO.csprojAssemblyReference.cache
+C:\Users\RONY\Desktop\upn\cursos upn\VERANO\FUNDAMENTOS DE ALGORITMOS\progrmas c#\TRABAJODECAMPO\TRABAJODECAMPO\obj\Debug\netcoreapp3.1\TRABAJODECAMPO.AssemblyInfoInputs.cache
+C:\Users\RONY\Desktop\upn\cursos upn\VERANO\FUNDAMENTOS DE ALGORITMOS\progrmas c#\TRABAJODECAMPO\TRABAJODECAMPO\obj\Debug\netcoreapp3.1\TRABAJODECAMPO.AssemblyInfo.cs
+C:\Users\RONY\Desktop\upn\cursos upn\VERANO\FUNDAMENTOS DE ALGORITMOS\progrmas c#\TRABAJODECAMPO\TRABAJODECAMPO\obj\Debug\netcoreapp3.1\TRABAJODECAMPO.csproj.CoreCompileInputs.cache
+C:\Users\RONY\Desktop\upn\cursos upn\VERANO\FUNDAMENTOS DE ALGORITMOS\progrmas c#\TRABAJODECAMPO\TRABAJODECAMPO\obj\Debug\netcoreapp3.1\TRABAJODECAMPO.dll
+C:\Users\RONY\Desktop\upn\cursos upn\VERANO\FUNDAMENTOS DE ALGORITMOS\progrmas c#\TRABAJODECAMPO\TRABAJODECAMPO\obj\Debug\netcoreapp3.1\TRABAJODECAMPO.pdb
+C:\Users\RONY\Desktop\upn\cursos upn\VERANO\FUNDAMENTOS DE ALGORITMOS\progrmas c#\TRABAJODECAMPO\TRABAJODECAMPO\obj\Debug\netcoreapp3.1\TRABAJODECAMPO.genruntimeconfig.cache
